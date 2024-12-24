@@ -2,42 +2,42 @@
   font-family: "IBMPlexMono";
   font-style: normal;
   font-weight: normal;
-  src: url(./styles/writer/ttf/IBMPlexMono-Regular.ttf);
+  src: url(../ttf/IBMPlexMono-Regular.ttf);
 }
 
 @font-face {
   font-family: "IBMPlexMono";
   font-style: italic;
   font-weight: normal;
-  src: url(./styles/writer/ttf/IBMPlexMono-Italic.ttf);
+  src: url(../ttf/IBMPlexMono-Italic.ttf);
 }
 
 @font-face {
   font-family: "IBMPlexMono";
   font-style: normal;
   font-weight: bold;
-  src: url(./styles/writer/ttf/IBMPlexMono-Bold.ttf);
+  src: url(../ttf/IBMPlexMono-Bold.ttf);
 }
 
 @font-face {
   font-family: "IBMPlexMono";
   font-style: italic;
   font-weight: bold;
-  src: url(./styles/writer/ttf/IBMPlexMono-BoldItalic.ttf);
+  src: url(../ttf/IBMPlexMono-BoldItalic.ttf);
 }
 
 @font-face {
   font-family: "IBMPlexMono Code";
   font-style: normal;
   font-weight: normal;
-  src: url(./styles/writer/ttf/IBMPlexMono-Thin.ttf);
+  src: url(../ttf/IBMPlexMono-Thin.ttf);
 }
 
 @font-face {
   font-family: "IBMPlexMono Code";
   font-style: italic;
   font-weight: normal;
-  src: url(./styles/writer/ttf/IBMPlexMono-ThinItalic.ttf);
+  src: url(../ttf/IBMPlexMono-ThinItalic.ttf);
 }
 
 html {
